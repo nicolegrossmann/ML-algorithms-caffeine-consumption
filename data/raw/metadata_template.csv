@@ -1,0 +1,5 @@
+sample_id,condition,subject_id,timepoint,nutrition_group,response_label
+S1,water,M1,pre,standard,low
+S2,water,M2,pre,standard,low
+S3,caffeine,M3,post,high_sugar,high
+S4,caffeine,M4,post,high_sugar,high

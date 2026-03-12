@@ -1,0 +1,8 @@
+{
+  "n_samples": 4,
+  "n_genes_after_filtering": 5,
+  "labels": [
+    "caffeine",
+    "water"
+  ]
+}
