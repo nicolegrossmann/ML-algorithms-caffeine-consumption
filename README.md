@@ -1,4 +1,4 @@
-# RNA-seq Caffeine Tolerance ML Project
+# playing with RNA-seq Caffeine Tolerance with ML 
 
 ![theme-yellow](https://img.shields.io/badge/theme-yellow-F7C948)
 ![theme-blue](https://img.shields.io/badge/theme-blue-2D6CDF)
