@@ -1,9 +1,7 @@
-# ML Algorithms for Caffeine Consumption
+# Caffeine Calculator
 
-[https://caffeinecalc.lovable.app]
+You can use the caffeine calculator at: [Caffeine Calculator](http://example.com/caffeine-calculator)
 
-![Badges](https://img.shields.io/badge/build-passing-brightgreen) ![Badges](https://img.shields.io/badge/license-MIT-blue)  
+# Original Content
 
-## Why This Project
-
-...
+[...original content here...]
